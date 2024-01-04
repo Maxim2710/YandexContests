@@ -1,0 +1,3 @@
+/Users/admin/Desktop/contest_01/cmake-build-debug/CMakeFiles/contest_01.dir
+/Users/admin/Desktop/contest_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/contest_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
