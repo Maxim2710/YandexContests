@@ -91,3 +91,5 @@
 | [11. Класс. Матрица](./contest_08/11/main.go)                  | ![](./img/go.png)  |
 | [12. Класс. Стек](./contest_08/12/main.go)                     | ![](./img/go.png)  |
 | [13. Pizza Builder](./contest_08/13/main.go)                   | ![](./img/go.png)  |
+| [14. Битва ботов](./contest_08/14/main.go)                   | ![](./img/go.png)  |
+| [15. Бинарное дерево поиска](./contest_08/15/main.go)                   | ![](./img/go.png)  |
